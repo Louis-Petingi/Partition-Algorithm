@@ -17,6 +17,23 @@ For example motif PKB236, it has 6 vertices (correspondng to 6 stems)
     The output file is for example
 	outfile.open("C:/Users/lpetn_000/desktop/RnaDv/PKB236.out.txt");
 --------------------- Motif :PKB236 -----------------------------
+===================== New Block ================== 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
