@@ -13,5 +13,8 @@ For example motif PKB236, it has 6 vertices (correspondng to 6 stems)
     0.0000    0.0000    0.0000    0.0000    2.0000    0.0000     2.0000       
     1.0000    0.0000    0.0000    0.0000    0.0000    2.0000     0.0000  
 
+    When the program is run, the user enter first the number of vertices (in this case 6) 
+    and the Motif (in this case PKB236)
+    
     The output file is for example
 	outfile.open("C:/Users/lpetn_000/desktop/RnaDv/PKB236.out.txt");
